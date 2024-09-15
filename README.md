@@ -18,7 +18,16 @@ KhanDictionary is a React-based web application that allows users to create and 
   ```bash
   npm install
   ```
-3. Run the application:
+3. Ensure the scripts section exists in package.json with the following content:
+   ```json
+   "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+   }
+   ```
+4. Run the application:
   ```bash
   npm start
   ```
