@@ -33,8 +33,7 @@ Khan Dictionary is a React-based web application that allows users to create and
    ```
 
 ## Video Demo
-=[![Khan Dictionary Demo](https://media.aykhan.net/thumbnails/projects/dictionary-v2.jpg)](https://www.youtube.com/watch?v=null)
-
+[![Khan Dictionary Demo](https://media.aykhan.net/thumbnails/projects/dictionary-v2.jpg)](https://www.youtube.com/watch?v=q7-ntuYNfE8)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
