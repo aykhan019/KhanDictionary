@@ -1,6 +1,6 @@
-# KhanDictionary
+# Khan Dictionary
 
-KhanDictionary is a React-based web application that allows users to create and manage custom dictionaries. Users can input words, define them, and organize their personal vocabulary lists.
+Khan Dictionary is a React-based web application that allows users to create and manage custom dictionaries. Users can input words, define them, and organize their personal vocabulary lists.
 
 ## Features
 
