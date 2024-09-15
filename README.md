@@ -15,9 +15,9 @@ KhanDictionary is a React-based web application that allows users to create and 
    git clone https://github.com/aykhan019/KhanDictionary.git
    ```
 2. Install dependencies:
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 3. Ensure the scripts section exists in package.json with the following content:
    ```json
    "scripts": {
@@ -28,9 +28,9 @@ KhanDictionary is a React-based web application that allows users to create and 
    }
    ```
 4. Run the application:
-  ```bash
-  npm start
-  ```
+   ```bash
+   npm start
+   ```
 
 ## Video Demo
 =[![Khan Dictionary Demo](https://media.aykhan.net/thumbnails/projects/dictionary-v2.jpg)](https://www.youtube.com/watch?v=null)
